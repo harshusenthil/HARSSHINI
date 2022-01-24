@@ -22,7 +22,7 @@ public class library {
 
     public static void main(String[] args) {
         ad.add("harshu");
-        ad.add("123");
+        ad.add("1234");
         b.add("wings of fire");
         b1.add("APJ abdul kalam");
         b2.add(10);
@@ -33,7 +33,7 @@ public class library {
         b2.add(12);
         b3.add(222);
         b4.add(2000);
-        un.add("kas");
+        un.add("har");
         un.add("123");
         usid.add(100);
         ac.add(3000);
